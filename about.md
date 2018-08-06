@@ -21,4 +21,4 @@ A few years ago in the Himalayas, I hiked with some friends for **18 days** arou
 
 Want to talk solutions architecture, solutions engineering, personal development, or adventure? **Reach out!** If I'm not able to help you, I'd love to connect you with someone who can and if you have something to offer, I'd love to learn from you too.
 
-[Email Me](mailto:anavarrete255@gmail.com)
+[hello@alexnavarrete.com](mailto:hello@alexnavarrete.com)
