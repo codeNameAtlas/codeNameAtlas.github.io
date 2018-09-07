@@ -39,7 +39,7 @@ Before deploying, make sure to [define your functions](https://serverless.com/fr
 Now, deploy your function:
 
 ```
-sls deploy
+$ sls deploy
 ```
 
 If your deploy is successful you should see a screen like this in your terminal:

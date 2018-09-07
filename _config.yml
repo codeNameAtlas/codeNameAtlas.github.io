@@ -6,7 +6,7 @@
 name: Alex Navarrete
 
 # Short bio or description (displayed in the header)
-description: Solutions Engineer / Solutions Architect in San Francisco, CA
+description: Solutions Engineer @ Optimizely in San Francisco, CA
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/10605047?s=400
@@ -73,7 +73,8 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+#previously it was gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
