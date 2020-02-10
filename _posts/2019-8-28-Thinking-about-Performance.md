@@ -16,14 +16,9 @@ While we collectively push the boundaries of what is capable on the web, we cont
 
 ### Different Kinds of Performance
 
-*This is part one of a four part series on Performance.* This post will address **why** performance matters and **how** to measure it. Subsequent posts will take a deep dive into three different performance considerations, complete with suggestions for addressing each.
+*This is part one of a two part series on Performance.* This post will address **why** performance matters and **how** to measure it. Subsequent posts will take a deep dive into three different performance considerations, complete with suggestions for addressing each.
 
 1. **[Parsing, JavaScript, and Compilation Performance](http://alexnavarrete.com/Parsing-JS-Compilation-Performance/)**
-
-2. **[Network Load Performance]()**
-
-3. **[Rendering Performance]()**
-
 
 ### How to think about Performance
 
@@ -43,15 +38,11 @@ Ultimately, **improving performance will lead to a better user experience and an
 
 If you don't have an existing process in place to measure performance **RAIL** is a great resource to establish a performance framework for your team. [RAIL](https://developers.google.com/web/fundamentals/performance/rail) is a user-centric performance framework established by Google to measure performance.
 
-Next, were going to take a deep dive into three different performance considerations, complete with suggestions for addressing each.
+Next, were going to take a deep dive into:
 
 1. **[Parsing, JavaScript, and Compilation Performance](http://alexnavarrete.com/Parsing-JS-Compilation-Performance/)**
 
-2. **[Network Load Performance]()**
-
-3. **[Rendering Performance]()**
-
-While a deep understanding of all of these may seem daunting, understand you don't need to do all of these things to improve the performance of your site. They are just suggestions or potential starting points, so don't feel overwhelmed!
+While a deep understanding of all of this may seem daunting, understand you don't need to do all of these things to improve the performance of your site. They are just suggestions or potential starting points, so don't feel overwhelmed!
 
 **Congratulations!** You just finished part one of *Thinking about Performance*! [Parsing, JavaScript, and Compilation Performance](http://alexnavarrete.com/Parsing-JS-Compilation-Performance/) is the next part of this series.
 

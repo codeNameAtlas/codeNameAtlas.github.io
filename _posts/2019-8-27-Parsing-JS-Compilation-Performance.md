@@ -7,7 +7,7 @@ JavaScript is a **compiled language**. You might be thinking, "But I've never co
 
 ### V8 Overview
 
-*This is part two of a four part series on Performance.* The image below is a simplified breakdown of how V8 works (taken from "*JavaScript Start-up Performance*" by [Addy Osmani](https://medium.com/reloading/JavaScript-start-up-performance-69200f43b201)):
+*This is part two of a series on Performance.* The image below is a simplified breakdown of how V8 works (taken from "*JavaScript Start-up Performance*" by [Addy Osmani](https://medium.com/reloading/JavaScript-start-up-performance-69200f43b201)):
 
 ![an image alt text]({{ site.baseurl }}/images/v8-overview.png "v8 overview")
 
@@ -83,6 +83,6 @@ Before making any performance changes it is **helpful to think deeply about the 
 - Use an open source tool like [Webpage Test](http://www.webpagetest.org/) to get a high level measurement of certain metrics (*Load Time, First Byte, Start Render, Speed Index, Requests*) for your site.
 
 
-**Congratulations!** You just finished part two on Parsing, JavaScript, and Compilation Performance! Next, were going to take a deep dive into [Rendering Performance]() considerations, complete with suggestions for addressing each.
+**Congratulations!** You just finished part two on Parsing, JavaScript, and Compilation Performance!
 
 Any questions about Performance? Feel free to reach out. I regularly work with customers and engineers to remove their technical hurdles 🙂
